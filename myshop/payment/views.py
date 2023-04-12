@@ -6,9 +6,9 @@ from orders.models import Order
 
 gateway = braintree.BraintreeGateway(
     braintree.Configuration(
-        merchant_id='2cd4wkxbx2xq97r9',
-        public_key='qnrm8yzft5bvsnkj',
-        private_key='04b7c0d31a95756dec8d0d214b49c847'
+        merchant_id='',
+        public_key='',
+        private_key=''
     )
 )
 
