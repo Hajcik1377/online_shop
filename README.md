@@ -26,6 +26,8 @@ The project is present for a simple online shop
 Clone the repo
 ```git clone https://github.com/Hajcik1377/online_shop``` <br />
 go to the myshop folder <br />
+enter the python manage.py makemigartions <br />
+enter the python manage.py migrate <br />
 enter the docker-compose up command <br />
 in your browser, enter localhost:8000
 
