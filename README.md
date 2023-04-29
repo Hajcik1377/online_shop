@@ -12,8 +12,8 @@ The project is present for a simple online shop
 
 ## Technologies
 <ul>
-<li>Python 3.11.1</li>
-<li>Django(4, 1, 4, final, 0)</li>
+<li>Python</li>
+<li>Django</li>
 <li>Docker</li>
 <li>HTML</li>
 <li>CSS</li>
